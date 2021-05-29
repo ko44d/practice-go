@@ -16,5 +16,6 @@ Go言語のBDD用のフレームワークとしてGinkgoを使っているため
 ## Ginkgoとは
 - https://onsi.github.io/ginkgo/
 - Go言語のBDD用テストフレームワークである
-- Gomaga というMatcherライブラリと組み合わせるのが最適である
+- Gomega というMatcherライブラリと組み合わせるのが最適である
     - 但し、Matcherライブラリには依存しない設計となっている
+
