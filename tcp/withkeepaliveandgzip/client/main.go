@@ -55,7 +55,7 @@ func main() {
 			continue
 		}
 
-		dump, err := httputil.DumpResponse(response, true)
+		dump, err := httputil.DumpResponse(response, false)
 		if err != nil {
 			panic(err)
 		}
