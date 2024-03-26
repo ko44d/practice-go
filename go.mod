@@ -1,6 +1,6 @@
 module koyoshid/practice-go
 
-go 1.17
+go 1.22.1
 
 require github.com/sirupsen/logrus v1.6.0
 
